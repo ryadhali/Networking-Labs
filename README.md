@@ -6,7 +6,7 @@ Labs are organized into folders and include configuration files, screenshots, an
 
 ## Lab Index
 
-- [Lab 1: VLAN Routing with Router-on-a-Stick](lab1_vlan_routing/README.md)
+- [Lab 1: lab1_vlan_routing
 - Lab 2: Coming soon
 
 ## Legal & Attribution
