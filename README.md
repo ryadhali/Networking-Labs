@@ -6,7 +6,7 @@ Labs are organized into folders and include configuration files, screenshots, an
 
 ## Lab Index
 
-- [Lab 1: lab1_vlan_routing
+- [Lab 1: lab1_vlan_routing - https://github.com/ryadhali/Networking-Labs/tree/c33ca39c65060432725047a741c97c4c458b8cde/lab1_vlan_routing
 - Lab 2: Coming soon
 
 ## Legal & Attribution
